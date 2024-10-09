@@ -1,5 +1,7 @@
 # Password Generator
 
+![17284981847518039062386704032012](https://github.com/user-attachments/assets/1a4c98a0-b465-463d-bb26-256dbf9cf225)
+
 This Python script generates a random password based on a set of characters, including lowercase alphabets, digits, and special characters.
 
 ## Features
