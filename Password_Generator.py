@@ -6,6 +6,7 @@ lenght = int (input(" Enter  password lenght : "))
 password = " "
 for a in range (lenght ):
   password +=random.choice(chars)
+  
 print(password)
 
 
